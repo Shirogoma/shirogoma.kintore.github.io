@@ -1,0 +1,23 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-image: url("5056611_221936475000_2.jpg");
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  margin-bottom: 50px; }
+  header .header-left {
+    float: left;
+    margin-left: 10px;
+    display: block;
+    font-size: 40px;
+    padding-top: 20px;
+    cursor: pointer;
+    color: white; }
+  header .header-right {
+    float: right;
+    font-size: 30px;
+    padding-right: 20px;
+    padding-top: 25px;
+    display: block;
+    color: black; }
