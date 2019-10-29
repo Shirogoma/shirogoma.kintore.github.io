@@ -1,0 +1,1 @@
+# shirogoma.kintore.github.io
